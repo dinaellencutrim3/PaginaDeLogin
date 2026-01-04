@@ -1,62 +1,66 @@
 🔐 Tela de Login – DevEllen
 
-Este projeto consiste em uma tela de login moderna e responsiva, desenvolvida utilizando apenas HTML5 e CSS3, com foco em design, usabilidade e experiência do usuário.
+🔗 Acesse o Projeto
+👉 Link do projeto: coloque aqui o link do GitHub Pages ou deploy
 
-A interface foi pensada para ser simples, intuitiva e visualmente agradável, simulando uma página real de autenticação que pode ser facilmente integrada a sistemas maiores no futuro.
+Projeto de interface de login responsiva, desenvolvido com HTML5 e CSS3, com foco em design moderno, usabilidade e boas práticas de front-end.
+A aplicação demonstra domínio na construção de layouts, organização de código e atenção à experiência do usuário.
 
-🎨 Design e Experiência do Usuário
+🧠 Principais Competências Demonstradas
 
-🌌 Background ilustrado com efeito noturno e elementos visuais suaves
+Estruturação semântica com HTML5
 
-🟣 Paleta de cores em tons de roxo e azul, transmitindo calma e modernidade
+Estilização avançada com CSS3
 
-📦 Card centralizado com efeito de transparência, destacando o formulário
+Criação de layouts centralizados e responsivos
 
-✨ Layout limpo, organizado e fácil de entender
+Design de formulários intuitivos
 
-🧩 Funcionalidades da Interface
+Organização visual e consistência de interface
 
-Campo para Usuário
+🎨 Interface
 
-Campo para Senha
+Background ilustrado com identidade visual moderna
+
+Paleta de cores harmônica (tons de roxo e azul)
+
+Card de login com efeito de transparência
+
+Interface limpa, clara e funcional
+
+🧩 Funcionalidades da Tela
+
+Campos de usuário e senha
 
 Opção “Lembrar senha”
 
 Link “Esqueci a senha”
 
-Botão de Login
+Botão de login
 
 Link para criação de conta
 
-⚠️ Este projeto representa apenas a camada visual (front-end). Não possui validação ou autenticação com back-end.
+⚠️ Projeto focado no front-end (camada visual), sem integração com back-end.
 
 🛠️ Tecnologias Utilizadas
 
-HTML5 → Estrutura da página
+HTML5
 
-CSS3 → Estilização, layout e responsividade
+CSS3
 
-🎯 Objetivo do Projeto
+🎯 Objetivo Profissional
 
-O objetivo deste projeto é praticar e demonstrar habilidades em criação de interfaces, trabalhando conceitos como:
+Demonstrar capacidade técnica em desenvolvimento front-end, aplicando conceitos de UI/UX, responsividade e boas práticas, visando evolução profissional e integração futura com sistemas completos.
 
-Centralização de elementos
+🚀 Possíveis Evoluções
 
-Estilização de formulários
+Validação de formulários com JavaScript
 
-Design moderno para páginas de autenticação
-
-Organização e boas práticas de front-end
-
-🚀 Possíveis Melhorias Futuras
-
-Integração com JavaScript para validações
-
-Conexão com back-end (PHP, Node.js, etc.)
+Integração com APIs e back-end
 
 Animações e microinterações
 
-Versão dark/light alternável
+Implementação de autenticação real
 
-💜 Desenvolvido com dedicação por Dinaellen Cutrim
-📁 Projeto ideal para estudos, portfólio e evolução em front-end.
+👩🏻‍💻 Desenvolvido por Dinaellen Cutrim
+📌 Projeto voltado para portfólio profissional e processos seletivos.
